@@ -1,4 +1,10 @@
-## Hi there 👋
+Hi there 👋
+I started my IT journey as a ServiceDesk Agent with Dutch language proficiency. Currently, I provide advanced technical support in Microsoft infrastructure, including Azure, Intune, Microsoft 365, Windows Server, and PowerShell scripting.
+
+Passionate about computers and technology since childhood, I am very proactive and always engaged in side projects. I continuously learn new skills in my free time and share my journey on GitHub. This platform serves as a blog for me, motivating me to keep learning. More complex scripts and projects will be coming soon.
+
+I am seeking a future in the IT industry where I can leverage my expertise and enthusiasm to make a significant impact.
+
 
 <!--
 **Patryk94A/Patryk94A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
